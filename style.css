@@ -1,0 +1,28 @@
+.elso{
+  position: relative;
+  top:0;
+  left: 0;
+  font-family: "Abril Fatface"
+}
+
+.felirat{
+  position: absolute;
+  top: 600px;
+  right: 600px;
+  font-family: "Abril Fatface"
+}
+
+.idezet{
+  width: 600px;
+  height: 150px;
+  background: grey;
+  font-family: "Abril Fatface"
+}
+
+.szoveg{
+  color: grey;
+}
+
+.felsorolas{
+  color: grey;
+}
